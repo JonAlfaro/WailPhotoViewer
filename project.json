@@ -1,0 +1,25 @@
+{
+ "name": "Wails Photo Viewer",
+ "description": "Enter your project description",
+ "author": {
+  "name": "Jon Alfaro",
+  "email": "j_alfa_4@outlook.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "wpv",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run dev"
+ },
+ "tags": "",
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": "",
+ "LdFlags": "",
+ "GoPath": "",
+ "UseFirebug": false
+}
